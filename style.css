@@ -5,3 +5,13 @@
 h1 {
     text-align: center;
 }
+
+h3 {
+    color: forestgreen;
+    -webkit-text-stroke: .5px;
+    -webkit-text-stroke-color: black;
+}
+
+h1 p {
+    text-align: center;
+}
