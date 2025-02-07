@@ -4,6 +4,10 @@
 
 h1 {
     text-align: center;
+    font-size: 80px;
+    color: white;
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: black;
 }
 
 h3 {
@@ -14,4 +18,22 @@ h3 {
 
 .homepagelink {
     text-align: center;
+}
+
+.homepageimage {
+    height: auto;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3.mainrecipelinks {
+    text-align: center;
+}
+
+.centeredlist {
+ text-align: center;
+ list-style-position: inside;
+ list-style-type: none;
 }
